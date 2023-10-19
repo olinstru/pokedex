@@ -1,5 +1,5 @@
 <script>
-	import Toto from '$lib/Toto.svelte';
+	import Toto from '$lib/Pokemon.svelte';
 </script>
 
 <h1>Welcome to SvelteKit</h1>
